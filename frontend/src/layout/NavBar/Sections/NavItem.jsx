@@ -1,7 +1,7 @@
-import React from 'react';
+import React from "react";
 
-function NavItem() {
-    return <div>NavItem</div>;
-}
+const NavItem = () => {
+  return <div></div>;
+};
 
 export default NavItem;

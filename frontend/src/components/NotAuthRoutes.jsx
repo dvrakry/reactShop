@@ -1,7 +1,7 @@
-import React from 'react';
+import React from "react";
 
 const NotAuthRoutes = () => {
-    return <div>NotAuthRoutes</div>;
+  return <div>NotAuthRoutes</div>;
 };
 
 export default NotAuthRoutes;
